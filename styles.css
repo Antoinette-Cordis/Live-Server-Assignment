@@ -18,7 +18,7 @@ p {
 }
 .croissant-page {
   display: flex;
-  justify-contet: space-evenly;
+  justify-content: space-evenly;
 }
 .about {
   color: brown;
