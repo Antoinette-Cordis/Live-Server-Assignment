@@ -17,8 +17,10 @@ p {
   margin-bottom: 15px;
 }
 .croissant-page {
-  display: flex;
-  justify-content: space-evenly;
+  text-align: center;
+}
+.croissant-page a {
+  margin: 0 13px;
 }
 .about {
   color: brown;
